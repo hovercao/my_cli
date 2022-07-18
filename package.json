@@ -1,0 +1,27 @@
+{
+  "name": "my_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hjx": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hovercao/my_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hovercao/my_cli/issues"
+  },
+  "homepage": "https://github.com/hovercao/my_cli#readme",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "prettierrc": "^0.0.0-5"
+  }
+}
